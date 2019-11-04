@@ -1,4 +1,4 @@
-*This assignment was done under the computer graphics course, some of the code was written by the instructor as part of the assignment.
+*This project was done under the computer graphics course, some of the code was written by the instructor as part of the assignment.
 
 The function showSeams duplicates the input image, then goes through the image and set the color of every pixel which is a part of a seam to be 'seamColorRGB'
 Here is the function: 
